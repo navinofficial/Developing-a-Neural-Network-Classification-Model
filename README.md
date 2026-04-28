@@ -1,5 +1,6 @@
 # Developing a Neural Network Classification Model
-
+## Reg no : 212223230141
+## Name : Navinkumar V
 ## AIM
 To develop a neural network classification model for the given dataset.
 
